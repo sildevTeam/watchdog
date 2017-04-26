@@ -1,2 +1,2 @@
-# watchdog
+# Watchdog
 watchdog for FaaS
